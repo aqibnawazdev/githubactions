@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h2>Github action with surge.sh</h2>
+      <p>This is just for testing github actions</p>
     </>
   );
 }
